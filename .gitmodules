@@ -1,3 +1,21 @@
 [submodule "neovim"]
 	path = neovim
 	url = git@github.com:dhammafarer/ansible-role-neovim
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = git@github.com:dhammafarer/ansible-role-ohmyzsh
+[submodule "distrobox"]
+	path = distrobox
+	url = git@github.com:dhammafarer/ansible-role-distrobox
+[submodule "nextcloud"]
+	path = nextcloud
+	url = git@github.com:dhammafarer/ansible-role-nextcloud
+[submodule "server_security"]
+	path = server_security
+	url = git@github.com:dhammafarer/ansible-role-server_security
+[submodule "homeassistant"]
+	path = homeassistant
+	url = git@github.com:dhammafarer/ansible-role-homeassistant
+[submodule "paru"]
+	path = paru
+	url = git@github.com:dhammafarer/ansible-role-paru
