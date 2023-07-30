@@ -19,3 +19,6 @@
 [submodule "paru"]
 	path = paru
 	url = git@github.com:dhammafarer/ansible-role-paru
+[submodule "tailscale"]
+	path = tailscale
+	url = git@github.com:dhammafarer/ansible-role-tailscale.git
